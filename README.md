@@ -1,6 +1,6 @@
 <!-- Animated Header SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Yash+Bisht!;Web+Developer+|+Problem+Solver+|+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&color=F7971E&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Yash+Bisht!;I'm+Developer;I'm+Problem+Solver;I'm+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&color=F7971E&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
 </p>
 
 <p align="center">
