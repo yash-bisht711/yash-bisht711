@@ -62,9 +62,9 @@
       <td><a href="https://yash-bisht711.github.io/Yash-Bisht_Portfolio/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yash-bisht711/star-war-explorer"><b>star-war-explorer</b></a></td>
-      <td>Explore the Star Wars universe using SWAPI!</td>
-      <td><a href="https://yash-bisht711.github.io/star-war-explorer/" target="_blank">Live Demo</a></td>
+      <td><a href="https://github.com/yash-bisht711/star-war-explorer"><b>Memehub</b></a></td>
+      <td>Come togethr and unleash your creative thought in the form of Memes!</td>
+      <td><a href="https://memestream.vercel.app/" target="_blank">Live Demo</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/StutiSharan/Game-Project"><b>Game-Project</b></a></td>
