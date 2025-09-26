@@ -73,7 +73,6 @@
     </tr>
   </tbody>
 </table>
----
 
 ## 📈 GitHub Stats
 <p align="center">
