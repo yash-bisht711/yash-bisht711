@@ -69,7 +69,7 @@
     <tr>
       <td><a href="https://github.com/StutiSharan/Game-Project"><b>Game-Project</b></a></td>
       <td>Collaborative game development project.</td>
-      <td><a href="https://stutisharan.github.io/Game-Project/" target="_blank">Live Demo</a></td>
+      <td><a href="https://mysteryspot.netlify.app/" target="_blank">Live Demo</a></td>
     </tr>
   </tbody>
 </table>
