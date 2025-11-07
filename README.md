@@ -71,6 +71,11 @@
       <td>Collaborative game development project.</td>
       <td><a href="https://mysteryspot.netlify.app/" target="_blank">Live Demo</a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/yash-bisht711/frontend_Vi-Meet"><b>Vi-Meet</b></a></td>
+      <td>A Video-calling webapp for meeting</td>
+      <td><a href="https://vi-meet-1c0480.netlify.app/" target="_blank">Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
