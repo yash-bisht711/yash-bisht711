@@ -1,120 +1,122 @@
-<!-- Animated Header SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Yash+Bisht!;I'm+Developer;I'm+Problem+Solver;I'm+Tech+Enthusiast;Welcome+to+my+GitHub+profile!&center=true&width=500&height=50&color=F7971E&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Anubhav+Maurya;Full+Stack+Web+Developer+💻;Creating+Beautiful+Digital+Experiences+✨" alt="Cursive Animated Header" />
+</h1>
+
+<h3 align="center">💡 Passionate Software Engineer | MERN Stack Developer | Open Source Enthusiast</h3>
+
+---
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlvZnFhNTZtY2tqNHVndnpxaXI4cnkxYW96dWF1MHZzMzB2MzE5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="420" alt="coding animation" />
+</div>
+
+---
+
+## 🧭 About Me
+
+Hi — I'm **Anubhav Maurya!** 👋  
+A passionate Full-Stack Web Developer focused on creating **beautiful**, **performant**, and **accessible** web applications.
+
+- 🌱 Currently learning and exploring new technologies across the **MERN stack** and **TypeScript**.  
+- 💬 Ask me about Front-End, Back-End, UI/UX, or full project workflows — happy to help!  
+- 🎯 I focus on building **scalable web apps** and crafting delightful **UI/UX** experiences.  
+- 💻 **Tech Stack:** React · Node.js · Express · MongoDB · Tailwind · TypeScript  
+- 🌐 **Portfolio:** <a href="https://anubhav-maurya-portfolio.netlify.app" target="_blank">anubhav-maurya-portfolio.netlify.app</a>  
+- 📄 **Resume:** <a href="https://drive.google.com/file/d/1VmY9dnHff-NBukvAjFVHOuTqGYqT9ghA/view?usp=drive_link" target="_blank" download>Download Resume</a>  
+- 📬 **Email:** <a href="mailto:mauryaanubhav660@gmail.com">mauryaanubhav660@gmail.com</a>
+
+---
+
+## 🚀 Featured Projects
+
+Below are a few projects that showcase my skills and passion for full-stack development.
+
+### 🌐 1. Property Connect
+**Description:** A MERN-based real estate web app enabling users to buy, sell, and rent properties with a modern UI and seamless communication between owners, agents, and buyers.  
+**Live Demo:** <a href="https://property-connect-real-estate.netlify.app/" target="_blank">View Live</a>  
+**GitHub:** <a href="https://github.com/anuuuuu0094/property_connect/tree/main/project_real_estate" target="_blank">Source Code</a>  
+**Tech:** React · Node.js · Express · MongoDB · JWT · TailwindCSS
+
+---
+
+### 🛍️ 2. Recipe Explorer
+**Description:** React app using Redux, Context API, Tailwind CSS, and Firebase — discover, save, and manage recipes through a responsive, fast interface.  
+**Live Demo:** <a href="https://recipe-sharing-apps.netlify.app/" target="_blank">View Live</a>  
+**GitHub:** <a href="https://github.com/anuuuuu0094/recipe_sharing_app" target="_blank">Source Code</a>  
+**Tech:** React · Redux · Firebase · Context API · Tailwind
+
+---
+
+### 🧠 3. Hospital Management
+**Description:** A web app (HTML/CSS/JS + Firebase) to manage patients, doctors, and appointments. Focus on ease-of-use for administrators and secure storage.  
+**Live Demo:** <a href="https://hospitals-management-system.netlify.app/" target="_blank">View Live</a>  
+**GitHub:** <a href="https://github.com/anuuuuu0094/Hospital_management_system" target="_blank">Source Code</a>  
+**Tech:** JavaScript · Firebase · HTML · CSS
+
+---
+
+## 🤝 Connect with Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="fun gif"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yash-bisht711?tab=followers">
-    <img src="https://img.shields.io/github/followers/yash-bisht711?label=Followers&style=social" alt="github followers" />
+  <a href="https://www.linkedin.com/in/anubhavmaurya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:yashbisht711@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" />
+  <a href="https://www.facebook.com/anubhav.maurya.184" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-bisht-">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" />
+  <a href="https://leetcode.com/u/anubhav--/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Passionate** about coding, web development, and building creative projects.
-- 🚀 Always eager to **learn new technologies** and improve my skills.
-- 🌱 Currently exploring **new frameworks** and contributing to **open-source**.
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-<ul>
-  <li>Language - <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="languages" /></li><br>
-  <li>Framework/Libraries - <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="frameworks" /></li><br>
-  <li>Tools - <img src="https://skillicons.dev/icons?i=git,vscode,redux" alt="tools" /></li>
-</ul>
-  <!-- <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,html,css,git,vscode" /> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode&perline=8" alt="Tech icons" />
 </p>
-<!-- - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks/Libraries:** React, Node.js, Express, MongoDB
-- **Tools:** Git, VS Code, GitHub Actions -->
 
 ---
 
-## 🏆 Featured Projects
+## ⚙️ GitHub Analytics
 
-<table border="1" cellspacing="0" cellpadding="10" align="center">
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Live Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/yash-bisht711/Yash-Bisht_Portfolio"><b>Yash-Bisht_Portfolio</b></a></td>
-      <td>My personal portfolio website.</td>
-      <td><a href="https://yash-bisht711.github.io/Yash-Bisht_Portfolio/" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yash-bisht711/star-war-explorer"><b>Memehub</b></a></td>
-      <td>Come togethr and unleash your creative thought in the form of Memes!</td>
-      <td><a href="https://memestream.vercel.app/" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/StutiSharan/Game-Project"><b>Game-Project</b></a></td>
-      <td>Collaborative game development project.</td>
-      <td><a href="https://mysteryspot.netlify.app/" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yash-bisht711/frontend_Vi-Meet"><b>Vi-Meet</b></a></td>
-      <td>A Video-calling webapp for meeting</td>
-      <td><a href="https://vi-meet-1c0480.netlify.app/" target="_blank">Live Demo</a></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuuuuu0094&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" alt="GitHub stats" />
+</div>
 
-## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuuuu0094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=astro" width="47%" alt="Top languages" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-bisht711&show_icons=true&theme=radical" width="410" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-bisht711&theme=radical" width="410" alt="streak stats"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-bisht711&theme=rogue" width="820" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anuuuuu0094&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
-
 
 ---
 
-<h2>📫 How to reach me</h2>
+## 👀 Profile Views
 
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/yash-bisht-" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-    </a>
-  </li>
-  <li>
-    <a href="mailto:yashbisht711@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://yash-bisht711.github.io/Yash-Bisht_Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat&logo=github&logoColor=white" alt="Portfolio"/>
-    </a>
-  </li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuuuuu0094&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=110&section=header" width="100%" alt="wave divider" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=Thanks!+for+visiting+my+profile!+💛;See+you+next-time!+👋;Hope+you+liked+it!+😊" alt="Cursive Animated Thank You" />
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coder gif"/>
-  <br>
-  <b>Thanks for visiting my profile! ⭐ Let's connect and build something amazing together!</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=130&section=footer&text=✨+Anubhav+Maurya+✨&fontSize=22&fontColor=ffffff" alt="footer" />
 </p>
-
