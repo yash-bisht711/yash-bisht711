@@ -1,14 +1,5 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Anubhav Maurya | GitHub Profile</title>
-</head>
-<body> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Yash Bisht;Full+Stack+Web+Developer+💻;Creating+Beautiful+Digital+Experiences+✨" alt="Cursive Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Anubhav+Maurya;Full+Stack+Web+Developer+💻;Creating+Beautiful+Digital+Experiences+✨" alt="Cursive Animated Header" />
 </h1>
 
 <h3 align="center">💡 Passionate Software Engineer | MERN Stack Developer | Open Source Enthusiast</h3>
@@ -23,7 +14,7 @@
 
 ## 🧭 About Me
 
-Hi — I'm **Yash Bisht!** 👋  
+Hi — I'm **Anubhav Maurya!** 👋  
 A passionate Full-Stack Web Developer focused on creating **beautiful**, **performant**, and **accessible** web applications.
 
 - 🌱 Currently learning and exploring new technologies across the **MERN stack** and **TypeScript**.  
@@ -31,8 +22,8 @@ A passionate Full-Stack Web Developer focused on creating **beautiful**, **perfo
 - 🎯 I focus on building **scalable web apps** and crafting delightful **UI/UX** experiences.  
 - 💻 **Tech Stack:** React · Node.js · Express · MongoDB · Tailwind · TypeScript  
 - 🌐 **Portfolio:** <a href="https://anubhav-maurya-portfolio.netlify.app" target="_blank">https://anubhav-maurya-portfolio.netlify.app</a>  
-- 📄 **Resume:** <a href="https://drive.google.com/file/d/170y0dRb0J9mkqUmmJptxxXQquhGD1Hi8/view?usp=sharing" target="_blank" download>Download Resume</a>  
-- 📬 **Email:** <a href="mailto:whyrush711@gmail.com">whyrush711@gmail.com</a>
+- 📄 **Resume:** <a href="https://drive.google.com/uc?export=download&id=1VmY9dnHff-NBukvAjFVHOuTqGYqT9ghA" target="_blank" download>Download Resume</a>  
+- 📬 **Email:** <a href="mailto:mauryaanubhav660@gmail.com">mauryaanubhav660@gmail.com</a>
 
 ---
 
@@ -64,6 +55,22 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 
 ---
 
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anubhavmaurya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/anubhav.maurya.184" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://leetcode.com/u/anubhav--/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -75,11 +82,11 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-bisht711&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuuuuu0094&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="47%" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-bisht711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="47%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuuuu0094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="47%" alt="Top languages" />
 </div>
 
 ---
@@ -87,7 +94,7 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-bisht711&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anuuuuu0094&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
@@ -95,7 +102,7 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-bisht711&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anuuuuu0094&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -116,4 +123,3 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 
 </body>
 </html>
-
