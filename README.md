@@ -22,7 +22,7 @@ A passionate Full-Stack Web Developer focused on creating **beautiful**, **perfo
 - 🎯 Dedicated to building **scalable web apps** and seamless **UI/UX** experiences.  
 - 💻 **Tech Stack:** React · Node.js · Express · MongoDB · Tailwind · TypeScript  
 - 🌐 **Portfolio:** <a href="https://yash-bisht711.github.io/Yash-Bisht_Portfolio/" target="_blank">https://yash-bisht711.github.io/Yash-Bisht_Portfolio/</a>  
-- 📄 **Resume:** <a href="https://drive.google.com/uc?export=download&id=170y0dRb0J9mkqUmmJptxxXQquhGD1Hi8" target="_blank" download>Download Resume</a>  
+- 📄 **Resume:** <a href="https://drive.google.com/file/d/1CmV5XFioVJlgA4ZxCo5LUayQR5q-xcT-/view?usp=sharing" target="_blank" download>Download Resume</a>  
 - 📬 **Email:** <a href="mailto:whyrush711@gmail.com">whyrush711@gmail.com</a>  
 
 ---
