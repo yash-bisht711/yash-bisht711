@@ -51,7 +51,7 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 **Description:** An **AI-powered mock interview platform** that helps users practice technical and behavioral interviews through personalized question generation, real-time voice interaction, and AI-driven performance analysis. Built using the MERN stack with Gemini AI integration for intelligent interview experiences.  
 **Live Demo:** <a href="https://prepwise-ai-443199.netlify.app/" target="_blank">View Live</a>  
 **GitHub:** <a href="https://github.com/yash-bisht711/PrepWiseAI" target="_blank">View Code</a>  
-**Tech:** React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Gemini AI · Tailwind CSS · Cloudinary · JWT · Render · Vercel
+**Tech:** React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Gemini AI · Tailwind CSS · Cloudinary · JWT · Render · Vercel <br>
 **Highlights:** AI-generated interviews, voice interaction, JWT authentication, performance scoring, interview history, responsive UI. 
 
 ---
