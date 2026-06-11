@@ -47,7 +47,7 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 
 ---
 
-### <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/f6fa8ff4-ca56-4d92-9b64-a39987fd3681" /> 3. PrepWiseAI
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f6fa8ff4-ca56-4d92-9b64-a39987fd3681" /> 3. PrepWiseAI
 **Description:** An **AI-powered mock interview platform** that helps users practice technical and behavioral interviews through personalized question generation, real-time voice interaction, and AI-driven performance analysis. Built using the MERN stack with Gemini AI integration for intelligent interview experiences.  
 **Live Demo:** <a href="https://prepwise-ai-443199.netlify.app/" target="_blank">View Live</a>  
 **GitHub:** <a href="https://github.com/yash-bisht711/PrepWiseAI" target="_blank">View Code</a>  
