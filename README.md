@@ -48,11 +48,11 @@ Below are a few projects that showcase my skills and passion for full-stack deve
 ---
 
 ### 🧠 3. MemeStream  
-**Description:** A collaborative **meme-sharing web app** where users can create, like, comment, and explore trending memes in real time. Built with modern React architecture and Firebase for authentication and storage.  
-**Live Demo:** <a href="https://memestream.vercel.app/" target="_blank">View Live</a>  
-**GitHub:** <a href="https://github.com/yash-bisht711/frontend-memehub" target="_blank">View Code</a>  
-**Tech:** React.js · Tailwind CSS · Firebase · Netlify  
-**Highlights:** Implemented meme creation studio, likes/comments system, and a dynamic trending feed. Designed responsive UI/UX using Tailwind CSS and smooth React animations.  
+**Description:** An **AI-powered mock interview platform** that helps users practice technical and behavioral interviews through personalized question generation, real-time voice interaction, and AI-driven performance analysis. Built using the MERN stack with Gemini AI integration for intelligent interview experiences.  
+**Live Demo:** <a href="https://prepwise-ai-443199.netlify.app/" target="_blank">View Live</a>  
+**GitHub:** <a href="https://github.com/yash-bisht711/PrepWiseAI" target="_blank">View Code</a>  
+**Tech:** React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Gemini AI · Tailwind CSS · Cloudinary · JWT · Render · Vercel
+**Highlights:** AI-generated interviews, voice interaction, JWT authentication, performance scoring, interview history, responsive UI. 
 
 ---
 
